@@ -1,0 +1,45 @@
+.user {
+  display: flex;
+  align-items: center;
+  padding: 5% 3%;
+  border-bottom: 1px solid rgb(234, 227, 227);
+}
+img {
+  max-width: 100%;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-right: 1rem;
+}
+.user-info {
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 50px;
+}
+p {
+  color: rgb(66, 63, 63);
+  font-weight: 500;
+}
+span {
+  color: rgb(116, 109, 109);
+}
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgb(72, 72, 72);
+  opacity: 0.2;
+}
+@media screen and (min-width: 768px) {
+  .user {
+    padding: 3%;
+  }
+  img {
+    width: 90px;
+    height: 90px;
+  }
+}
