@@ -5,7 +5,7 @@ import { User } from "../../types/User";
 export const fetchAllUsers = createAsyncThunk(
   "users/fetchAllUsers",
   async (val: boolean) => {
-    const response = await axios.get<User[]>("/data/initData.json");
+    const response = await axios.get<User[]>("http://localhost:3000/users");
     return val ? response.data : response.data?.slice(0, 3);
   }
 );
