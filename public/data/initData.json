@@ -6,7 +6,7 @@
     "nickname": "@geordanaaryn",
     "email": "geordan.aaryn@fallinhay.com",
     "position": "Chief Executive Officer",
-    "photo": "/src/assets/foto/1.jpg"
+    "photo": "foto/1.jpg"
   },
   {
     "id": 2,
@@ -16,7 +16,7 @@
     "nickname": "@brazilizair",
     "email": "brazil.izair@fallinhay.com",
     "position": "Managing Director",
-    "photo": "/src/assets/foto/2.jpg"
+    "photo": "foto/2.jpg"
   },
   {
     "id": 3,
@@ -26,7 +26,7 @@
     "nickname": "@selmanwinston",
     "email": "selman.winston@fallinhay.com",
     "position": "Chief Visionary Officer",
-    "photo": "/src/assets/foto/3.jpg"
+    "photo": "foto/3.jpg"
   },
   {
     "id": 4,
@@ -36,7 +36,7 @@
     "nickname": "@kainedutch",
     "email": "kaine.dutch@fallinhay.com",
     "position": "Chief Financial Officer",
-    "photo": "/src/assets/foto/4.jpg"
+    "photo": "foto/4.jpg"
   },
   {
     "id": 5,
@@ -46,7 +46,7 @@
     "nickname": "@kerbylinton",
     "email": "kerby.linton@fallinhay.com",
     "position": "IT Guy",
-    "photo": "/src/assets/foto/5.jpg"
+    "photo": "foto/5.jpg"
   },
   {
     "id": 6,
@@ -56,7 +56,7 @@
     "nickname": "@giladdelvon",
     "email": "gilad.delvon@fallinhay.com",
     "position": "Workless",
-    "photo": "/src/assets/foto/6.jpg"
+    "photo": "foto/6.jpg"
   },
   {
     "id": 7,
@@ -66,7 +66,7 @@
     "nickname": "@augustocastor",
     "email": "augusto.castor@fallinhay.com",
     "position": "Manager",
-    "photo": "/src/assets/foto/7.jpg"
+    "photo": "foto/7.jpg"
   },
   {
     "id": 8,
@@ -76,7 +76,7 @@
     "nickname": "@ziankhyre",
     "email": "zian.khyre@fallinhay.com",
     "position": "General worker/Works for food",
-    "photo": "/src/assets/foto/8.jpg"
+    "photo": "foto/8.jpg"
   },
   {
     "id": 9,
@@ -86,7 +86,7 @@
     "nickname": "@sheldonneiko",
     "email": "sheldon.neiko@fallinhay.com",
     "position": "Security Guy",
-    "photo": "/src/assets/foto/9.jpg"
+    "photo": "foto/9.jpg"
   },
   {
     "id": 10,
@@ -96,6 +96,6 @@
     "nickname": "@berengeraltay",
     "email": "berenger.altay@fallinhay.com",
     "position": "Unknown person",
-    "photo": "/src/assets/foto/10.jpg"
+    "photo": "foto/10.jpg"
   }
 ]
